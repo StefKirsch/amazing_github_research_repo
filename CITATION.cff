@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "Amazing GitHub Research Repo"
+date-released: 2025-08-26
+authors:
+  - family-names: Kirsch
+    given-names: Stefan
+license: MIT
+repository-code: "https://github.com/StefKirsch/amazing_github_research_repo"
+abstract: >
+  A minimal bilingual Python demo for transparent, professional, and
+  reproducible research.
+keywords:
+  - reproducible research
+  - data science
+  - Python
+  - pandas
+  - pytest
+  - GitHub Actions
+languages:
+  - Python
+preferred-citation:
+  type: software
+  title: "Amazing GitHub Research Repo"
+  authors:
+    - family-names: Kirsch
+      given-names: Stefan
+  year: 2025
+  url: "https://github.com/StefKirsch/amazing_github_research_repo"
