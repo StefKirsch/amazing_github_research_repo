@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this project, please cite it as below."
 title: "Amazing GitHub Research Repo"
+version: "0.0.1"
 date-released: 2025-08-26
 authors:
   - family-names: Kirsch
@@ -26,4 +27,5 @@ preferred-citation:
     - family-names: Kirsch
       given-names: Stefan
   year: 2025
+  version: "0.0.1"
   url: "https://github.com/StefKirsch/amazing_github_research_repo"
