@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16950343.svg)](https://doi.org/10.5281/zenodo.16950343)
+
 # Amazing GitHub Research Repo
 
 This tiny project showcases a clean, reproducible layout for research code using Python. It demonstrates:
