@@ -1,0 +1,38 @@
+{
+  "title": "Amazing GitHub Research Repo",
+  "upload_type": "software",
+  "description": "<p>A minimal bilingual Python demo for transparent, professional, and reproducible research.</p>",
+  "creators": [
+    {
+      "name": "Kirsch, Stefan",
+      "affiliation": "Tilburg University",
+      "orcid": "0009-0009-6939-411X"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "reproducible research",
+    "Python",
+    "pandas",
+    "pytest",
+    "GitHub Actions",
+    "data science"
+    ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "scheme": "url",
+      "identifier": "https://github.com/StefKirsch/amazing_github_research_repo"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Kirsch, Stefan",
+      "type": "ContactPerson",
+      "orcid": "0009-0009-6939-411X"
+    }
+  ],
+  "notes": "See CITATION.cff for citation metadata and README for setup instructions."
+}
