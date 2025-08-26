@@ -1,0 +1,8 @@
+# General
+data/
+
+# Python
+*.pyc
+python/outputs
+
+
