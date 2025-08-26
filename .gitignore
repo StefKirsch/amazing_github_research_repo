@@ -1,8 +1,6 @@
 # General
 data/
+outputs
 
 # Python
 *.pyc
-python/outputs
-
-
