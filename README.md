@@ -151,3 +151,8 @@ What you find in this repository is (or rather should be) very much the bread an
 ## Extra bits
 
 Believe it or not, GitHub has many more features that are perfect for research projects. GitHub Actions are extremely versatile and they offer a lot of freedom. On top of that, you can host your own static website with GitHub Pages. Check out the [CAFE Playbook](https://github.com/code-cafes-nl/cafe_playbook) for a nice little [example](https://code-cafes-nl.github.io/cafe_playbook/). You can even use this feature to leverage Quarto to publish your manuscripts in different formats at the same time (without changing a line of code in the source!). This is a nice little [example project](https://cwickham.github.io/manuscript-showcase/) with the source being available [here](https://github.com/cwickham/manuscript-showcase).
+
+## Statement of AI use
+
+The above text and software code in this repository has been generated and/or refined using chatGPT 5. All AI-output has been verified for correctness, 
+accuracy and completeness, adapted where needed, and approved by the author. The author takes responsibility for any mistakes and inaccuracies.
