@@ -1,0 +1,9 @@
+,name,label,data_type,ordered,n_missing,complete_rate,n_unique,top_counts,min,median,max,mean,sd
+1,age,What is your age?,haven_labelled,NA,0,1,NA,NA,18,41,65,41.4426,13.78031549
+2,gender,What is your gender?,factor,FALSE,0,1,2,"Fem: 5029, Mal: 4971",NA,NA,NA,NA,NA
+3,education,What is your highest level of education completed?,factor,TRUE,0,1,3,"Hig: 3363, Mas: 3338, Bac: 3299",NA,NA,NA,NA,NA
+4,job_satisfaction,I am satisfied with my current job.,factor,TRUE,0,1,5,"Ful: 2062, Neu: 2015, Dis: 2006, Agr: 1985",NA,NA,NA,NA,NA
+5,mental_health,I feel mentally healthy at work.,factor,TRUE,0,1,5,"Neu: 2041, Agr: 2010, Dis: 1989, Ful: 1981",NA,NA,NA,NA,NA
+6,stress_at_job,I often feel stressed because of my job.,factor,TRUE,0,1,5,"Neu: 5953, Dis: 2033, Agr: 1918, Ful: 49",NA,NA,NA,NA,NA
+7,years_experience,How many years of experience do you have?,haven_labelled,NA,0,1,NA,NA,0,14,47,15.18522471,10.45518455
+8,salary,What is your annual salary?,haven_labelled,NA,0,1,NA,NA,41206,102956,177037,103893.9741,24752.46036
