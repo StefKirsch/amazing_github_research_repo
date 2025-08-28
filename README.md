@@ -74,7 +74,7 @@ pip install -r requirements.txt
 ### 4) Run the analysis
 
 ```bash
-python python/src/analysis.py
+python analysis.py
 ```
 
 The outputs will be stored in:
