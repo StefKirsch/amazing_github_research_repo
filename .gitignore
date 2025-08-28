@@ -4,3 +4,6 @@ outputs
 
 # Python
 *.pyc
+
+# R
+.Rproj.user
