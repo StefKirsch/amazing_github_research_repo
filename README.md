@@ -134,10 +134,12 @@ Here are some step-by-step instructions on how to set up your own [FAIR](https:/
 
 > [!TIP]
 > Issues and Pull Requests are not only super useful for yourself and your team, but also offer the community a way to give feedback and ask questions on your work. For example, check out a project like [pandas](https://github.com/pandas-dev/pandas/issues) that has thousands of Issues and Pull Requests submitted by the community.
-> This means, of course, that you can also do that for other open source projects that you are working on. You will be surprised how often you will get a swift reply to your questions from the maintainers of these projects.
-> By the way, if you find a bug in an open source project, you can even suggest changes to fix it yourself by opening an issue, forking the repository, and then working in your own copy of it. Find out more [here](https://github.com/gabrieldemarmiesse/getting_started_open_source).
+> 
+> This means that you can also submit issues on open source software that you are working with yourself! You will be surprised how often you will get a swift reply to your questions from the maintainers of these projects.
+> 
+> And by the way, if you find a bug in an open source project, you can even suggest a fix yourself by opening an issue, forking the repository, and then working in your own copy of it. Find out more [here](https://github.com/gabrieldemarmiesse/getting_started_open_source).
 
-11. Add [unit tests](https://book.the-turing-way.org/reproducible-research/testing.html) to your code and set up [GitHub Actions](https://book.the-turing-way.org/reproducible-research/ci/ci-github-actions). A Linter or testing framework of your choice is a great way to set up these actions.
+11. Add [unit tests](https://book.the-turing-way.org/reproducible-research/testing.html) to your code and set up [GitHub Actions](https://book.the-turing-way.org/reproducible-research/ci/ci-github-actions). An AI chatbot of your choice is a great way to set up those actions.
 
 12. Link your repository to [Zenodo](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content) to get a DOI for your software.
 
