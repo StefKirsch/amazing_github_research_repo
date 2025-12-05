@@ -10,8 +10,8 @@ This tiny project showcases a clean, reproducible layout for research code using
 * How to instruct others on how to set up their system and how to rerun your code.
 * How you can use [Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) and [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) to manage your project and collaborate with others.
 * How you can run unit tests every time you push new code to the repository so that you can spot issues early.
-* How you can safely back up your code to Zenodo whenever you create a release.
-* How you can register your project on RSD to link your project to a paper and other work.
+* How you can safely back up your code to [Zenodo](https://zenodo.org/records/16967309) whenever you create a release.
+* How you can register your project on [RSD](https://research-software-directory.org/software/amazing-github-research-repo) to link your project to a paper and other work.
 
 ## What this code does
 
@@ -146,7 +146,7 @@ Here are some step-by-step instructions on how to set up your own [FAIR](https:/
 > [!TIP]
 > Check out the source code of this README to see how you can embed the Zenodo DOI in your own README.
 
-13. Register your project in the [Research Software Directory](https://research-software-directory.org/documentation/users/adding-projects/).
+13. [Register your project](https://research-software-directory.org/documentation/users/adding-projects/) in the [Research Software Directory](https://research-software-directory.org/software/amazing-github-research-repo).
 
 What you find in this repository is (or rather should be) very much the bread and butter of effective and professional research software management. Even if you only have a small piece of code that meaningfully contributes to your research output, you can follow the formula above! 🙌
 
