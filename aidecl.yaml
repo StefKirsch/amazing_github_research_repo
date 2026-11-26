@@ -1,0 +1,24 @@
+schema_version: 1.0.0
+project:
+  name: Amazing GitHub Research Repo
+  content_type: software
+ai_usage:
+  used: true
+  summary: >-
+    The materials in this repository have in part been generated and/or refined using generative AI. All AI output has
+    been verified for correctness, accuracy and completeness, adapted where needed, and approved by the author. The
+    author takes responsibility for any mistakes and inaccuracies.
+  level: significant
+  scope:
+    code_generation: true
+    documentation: true
+    infrastructure: true
+  tools:
+    - name: ChatGPT
+      type: assistant
+      hosting: cloud
+compliance:
+  risk_classification: unclassified
+declaration:
+  declared_by: Stefan Kirsch
+  date: '2026-11-26'
