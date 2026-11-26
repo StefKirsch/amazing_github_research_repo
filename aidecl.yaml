@@ -17,8 +17,6 @@ ai_usage:
     - name: ChatGPT
       type: assistant
       hosting: cloud
-compliance:
-  risk_classification: unclassified
 declaration:
   declared_by: Stefan Kirsch
   date: '2026-11-26'
